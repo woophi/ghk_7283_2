@@ -1,7 +1,7 @@
 import { BottomSheet } from '@alfalab/core-components/bottom-sheet/cssm';
 import { Collapse } from '@alfalab/core-components/collapse/cssm';
 import { PureCell } from '@alfalab/core-components/pure-cell/cssm';
-import { StatusBadge } from '@alfalab/core-components/status-badge';
+import { StatusBadge } from '@alfalab/core-components/status-badge/cssm';
 import { Typography } from '@alfalab/core-components/typography/cssm';
 import { ChevronDownMIcon } from '@alfalab/icons-glyph/ChevronDownMIcon';
 import { ChevronRightShiftRightMIcon } from '@alfalab/icons-glyph/ChevronRightShiftRightMIcon';
